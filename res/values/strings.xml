@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General strings -->
+    <string name="app_name">Live Wallpaper</string>
+    <string name="author">mizt</string>
+    <string name="description">Live OpenGL 2.0 ES Wallpaper.</string>
+
+</resources>

@@ -1,0 +1,8 @@
+*.DS_Store
+bin/
+build/
+gen/
+libs/
+obj/
+local.properties
+build.xml
